@@ -4,7 +4,7 @@ Este projeto implementa uma **Máquina de Turing Neural (NTM)** usando PyTorch p
 
 ---
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 - `ntm_model.py`: Arquivo com a implementação da arquitetura da NTM.
 - `dataset.py`: Função `generate_sequence()` para gerar pares de entrada/saída com bits invertidos.
@@ -13,7 +13,7 @@ Este projeto implementa uma **Máquina de Turing Neural (NTM)** usando PyTorch p
 
 ---
 
-## ⚙️ Especificações do Modelo
+## Especificações do Modelo
 
 - **Input size**: 8
 - **Output size**: 8
@@ -25,14 +25,14 @@ Este projeto implementa uma **Máquina de Turing Neural (NTM)** usando PyTorch p
 
 ---
 
-## 🧪 Tarefa
+## Tarefa
 
 O objetivo do modelo é aprender a **inverter os bits** de uma sequência binária.  
 A sequência de entrada é passada para a NTM, que a processa durante a fase de codificação. Em seguida, uma sequência em branco (vetores zero) é fornecida como entrada, e a NTM deve gerar a sequência invertida correspondente.
 
 ---
 
-## 📊 Resultados
+## Resultados
 
 Durante o treinamento, são gerados dois gráficos:
 - **Loss durante as épocas**
@@ -42,7 +42,7 @@ Ao final, o script imprime um exemplo de entrada, saída esperada e saída previ
 
 ---
 
-## ▶️ Como Executar
+## Como Executar
 
 1. Certifique-se de ter o PyTorch instalado:
    ```bash
