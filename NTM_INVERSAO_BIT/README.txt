@@ -1,4 +1,4 @@
-# NTM - Neural Turing Machine para Tarefa de Inversão de Bits
+## NTM - Neural Turing Machine para Tarefa de Inversão de Bits
 
 Este projeto implementa uma **Máquina de Turing Neural (NTM)** usando PyTorch para resolver a tarefa de **inversão de bits em uma sequência binária**. O modelo recebe uma sequência de vetores binários como entrada e deve produzir a saída com os bits invertidos. Ex: `[1, 0, 1] → [0, 1, 0]`.
 
