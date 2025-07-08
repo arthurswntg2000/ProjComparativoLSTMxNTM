@@ -2,14 +2,14 @@
 
 Este projeto utiliza uma rede LSTM simples para aprender a inverter sequências binárias.
 
-## 📌 Objetivo
+## Objetivo
 
 Treinar um modelo LSTM que receba uma sequência de bits como entrada e produza a sequência invertida como saída (espelhada horizontalmente). Por exemplo:
 
 Entrada: `[1, 0, 1, 1]`  
 Saída esperada: `[1, 1, 0, 1]`
 
-## 🧠 Arquitetura
+## Arquitetura
 
 - **`SimpleLSTM`**: Implementação de uma rede com uma camada LSTM seguida de uma camada totalmente conectada (`Linear`).
 
