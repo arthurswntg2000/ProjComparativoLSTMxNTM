@@ -1,4 +1,4 @@
-Este projeto tem como objetivo comparar o desempenho da Neural Turing Machine (NTM) com a Long Short-Term Memory (LSTM) em duas tarefas clássicas de memória sequencial: inversão de bits e CopyTask11. As análises envolvem treinamento supervisionado, avaliação quantitativa de perda e acurácia, bem como generalização fora do intervalo visto em treino.
+Este projeto tem como objetivo comparar o desempenho da Neural Turing Machine (NTM) com a Long Short-Term Memory (LSTM) em duas tarefas clássicas de memória sequencial: inversão de bits e CopyTask. As análises envolvem treinamento supervisionado, avaliação quantitativa de perda e acurácia, bem como generalização fora do intervalo visto em treino.
 
 - Modelos Envolvidos
 
